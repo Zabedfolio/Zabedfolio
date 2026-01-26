@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="./hero-banner.png" alt="Zabed Mahmud – Web Developer Banner" />
+  <img src="./banner.png" alt="Zabed Mahmud – Web Developer Banner" />
 </p>
 
 
