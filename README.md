@@ -3,18 +3,16 @@
   <img src="./banner.png" alt="Zabed Mahmud – Web Developer Banner" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zabedfolio&style=flat-square&color=7F77DD&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Commits%202025-847-534AB7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits%202026-312-1D9E75?style=flat-square" />
+</p>
 
-<!--
-**Zabedfolio/Zabedfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zabedfolio&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabedfolio&theme=tokyonight" />
+</p>
