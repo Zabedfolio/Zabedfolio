@@ -39,12 +39,12 @@
 
 ---
 
-## Featured Projects
+<!-- ## Featured Projects
 - 🔗 Add your best projects here (with live links + short description)
 - 🔗 Example: Portfolio Website  
 - 🔗 Example: Full Stack App  
 
----
+--- -->
 
 ## Connect With Me
 <p align="center">
