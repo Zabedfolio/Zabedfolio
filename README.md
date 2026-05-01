@@ -35,7 +35,7 @@
 ## Current Focus
 - Building full-stack apps with Next.js  
 - Writing cleaner, scalable code  
-- Improving UI/UX design sense  
+- Improving UI/UX design sense . 
 
 ---
 
