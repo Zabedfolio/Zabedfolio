@@ -80,7 +80,7 @@ available:   Open to work & collaboration ✅
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zabedfolio&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E8EFA&icon_color=6E8EFA&text_color=C9D1D9"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zabedfolio&theme=tokyonight&hide_border=true&background=0D1117&ring=6E8EFA&fire=6E8EFA&currStreakLabel=6E8EFA"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Zabedfolio&theme=tokyonight&hide_border=true&background=0D1117&ring=6E8EFA&fire=6E8EFA&currStreakLabel=6E8EFA"/>
 </div>
 
 <div align="center">
