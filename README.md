@@ -93,27 +93,6 @@ available:   Open to work & collaboration ✅
 
 ---
 
-## 🚀 Featured Projects
-
-> *"Ship things that matter, with code you're proud of."*
-
-| Project | Stack | Description | Links |
-|--------|-------|-------------|-------|
-| 🛒 **E-Commerce Platform** | Next.js · MongoDB · Tailwind | Full-stack shop with auth, cart & payments | [Demo](#) · [Code](#) |
-| 🎨 **UI Component Library** | React · Storybook · Tailwind | Reusable, accessible components | [Demo](#) · [Code](#) |
-| 📝 **Task Manager App** | React · Express · MongoDB | Kanban board with real-time updates | [Demo](#) · [Code](#) |
-
-> 💡 Replace `#` with real links to your live demos and repos · More projects at **[zabedmahmud.com](https://zabedmahmud.com)**
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zabedfolio&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
----
 
 ## 📈 My Journey
 
