@@ -36,7 +36,7 @@ available:   Open to work & collaboration ✅
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -76,7 +76,7 @@ available:   Open to work & collaboration ✅
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zabedfolio&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E8EFA&icon_color=6E8EFA&text_color=C9D1D9"/>
@@ -94,7 +94,7 @@ available:   Open to work & collaboration ✅
 ---
 
 
-## 📈 My Journey
+## My Journey
 
 ```
 Mar 2024  ──── Started MERN stack — no mentor, no roadmap. Just curiosity.
@@ -106,7 +106,7 @@ Now       ──── Programming Hero Batch 13 · Open to hire · Building in 
 
 ---
 
-## 🎓 Education
+## Education
 
 | | | |
 |--|--|--|
@@ -115,7 +115,7 @@ Now       ──── Programming Hero Batch 13 · Open to hire · Building in 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Now       ──── Programming Hero Batch 13 · Open to hire · Building in 
 <img src="https://komarev.com/ghpvc/?username=Zabedfolio&style=flat-square&color=6E8EFA&label=Profile+Views" />
 
 ```
-⭐ If you like what you see — check out zabedmahmud.com and let's build together.
+If you like what you see — check out zabedmahmud.com and let's build together.
 ```
 
 </div>
